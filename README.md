@@ -1,2 +1,2 @@
-# Cypress-Ts-CC-POM
-Cypress TS Cucumber proj with POM structure
+# Playwright-Ts-CC-POM
+Playwright TS Cucumber proj with POM structure
